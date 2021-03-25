@@ -7,6 +7,12 @@ A simple template to help get a new project started.
 Code is contained in `src/go_starter.go`
 Go convention is actually not to use a src folder, but I find it helpful to have top-level scripts, and it starts to get cluttered.
 
+## Install
+Install all modules defined in go.mod:
+```bash
+go install
+```
+
 ## Run the Code
 ```bash
 ./run.sh

@@ -1,0 +1,3 @@
+echo Installing dependencies defined in go.mod...
+go install github.com/scotteratigan/go_starter
+echo Installation complete.
