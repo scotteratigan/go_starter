@@ -1,0 +1,3 @@
+echo Running all tests...
+go test ./src
+echo Testing completed.
