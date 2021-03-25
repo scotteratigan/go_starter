@@ -28,3 +28,8 @@ go get github.com/stretchr/testify/assert
 
 ## Run Tests
 
+```bash
+./test.sh
+```
+
+These scripts don't really add much functionality beyond what go makes available via the CLI but they are useful to get started, especially if you're used to JS projects with scripts defined in `package.json`
